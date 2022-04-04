@@ -22,19 +22,19 @@
 - As part of the Lending Club Case Study we have analyzed and would
 recommend that the following factors be considered by Consumer Finance
 Company to approve / reject the loan of an applicant: <br>
-    -  Purpose<br>
-    -  Term<br>
-    -  Grade<br>
-    -  Loan Amount<br>
-    -  Interest Rate<br>
-    -  Monthly Income<br>
--  Applicants who stay in rented house or mortgage are the maximum who
+    -  Purpose<br>
+    -  Term<br>
+    -  Grade<br>
+    -  Loan Amount<br>
+    -  Interest Rate<br>
+    -  Monthly Income<br>
+-  Applicants who stay in rented house or mortgage are the maximum who
 take loans, so bank can take this as an advantage to grow customers.<br>
--  Customers with a loan purpose of Small Business are more likely to default
+-  Customers with a loan purpose of Small Business are more likely to default
 as compared to other categories.<br>
--  The defaulters rate is increasing w.r.t term, hence the chances of loan
+-  The defaulters rate is increasing w.r.t term, hence the chances of loan
 getting defaulted is less for 36m than 60m.<br>
--  Applicant having purpose debt_consolidate are the maximum applicant for
+-  Applicant having purpose debt_consolidate are the maximum applicant for
 the loans.<br>
 
 
