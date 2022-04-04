@@ -19,16 +19,23 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Customer with below condition are tend be become defaulter, <br>
-    - G5 grade with 8 Open accounts <br>
-    - 8 inquiries in last 6 months <br>
-    - Home ownership status not given as well as Mortgage with 10K+ applied loan amount <br>
-    - 2 Bankruptcies with loan amount more than 8k+ <br>
-    - Very high salary with 12K+ applied loan amount <br>
-- Customer with below condition are having high chance of profit to business, <br>
-    - Very low interest rate for all grades except for Grade A <br>
-    - A grade and 60 month term period loan <br>
-    - G grade with 60 months term & F Grade with 36 month term <br>
+- As part of the Lending Club Case Study we have analyzed and would
+recommend that the following factors be considered by Consumer Finance
+Company to approve / reject the loan of an applicant: <br>
+    -  Purpose<br>
+    -  Term<br>
+    -  Grade<br>
+    -  Loan Amount<br>
+    -  Interest Rate<br>
+    -  Monthly Income<br>
+-  Applicants who stay in rented house or mortgage are the maximum who
+take loans, so bank can take this as an advantage to grow customers.<br>
+-  Customers with a loan purpose of Small Business are more likely to default
+as compared to other categories.<br>
+-  The defaulters rate is increasing w.r.t term, hence the chances of loan
+getting defaulted is less for 36m than 60m.<br>
+-  Applicant having purpose debt_consolidate are the maximum applicant for
+the loans.<br>
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -48,4 +55,4 @@ Give credit here.
 - This project was inspired uPgrad Leaning platform in understaning Exploratory Data Analysis.
 
 ## Contact
-Created by [@taruntiwari](https://github.com) & [@Pranavi](https://github.com/) - feel free to contact us!
+Created by [@Tarun](https://github.com/taruntiwarihp) & [@Pranavi](https://github.com/pranavich) - feel free to contact us!
