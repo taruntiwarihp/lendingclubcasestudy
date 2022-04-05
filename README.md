@@ -19,8 +19,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- As part of the Lending Club Case Study we have analyzed and would
-recommend that the following factors be considered by Consumer Finance
+- As part of the Lending Club Case Study we have analyzed and would recommend that the following factors to be considered by Consumer Finance
 Company to approve / reject the loan of an applicant: <br>
     -  Purpose<br>
     -  Term<br>
@@ -42,6 +41,7 @@ the loans.<br>
 
 
 ## Technologies Used
+- Python - 3.7
 - Pandas  - v1.3.5
 - Numpy - v1.21.5
 - Plotly - v5.5.0
@@ -52,7 +52,7 @@ the loans.<br>
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired uPgrad Leaning platform in understaning Exploratory Data Analysis.
+- This project was inspired by UpGrad Learning platform in understaning Exploratory Data Analysis.
 
 ## Contact
 Created by [@Tarun](https://github.com/taruntiwarihp) & [@Pranavi](https://github.com/pranavich) - feel free to contact us!
